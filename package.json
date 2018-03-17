@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "this is a sample test demo.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "wuyuzhou12345",
+  "license": "ISC"
+}
