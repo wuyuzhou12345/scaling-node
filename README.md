@@ -1,0 +1,2 @@
+# scaling-node
+sample test
